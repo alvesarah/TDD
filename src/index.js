@@ -2,7 +2,7 @@
 // var app = express();
 
 const concat = (a, b) => {
-    return a + b;
+    return a + b
 }
 
 module.exports = {concat}
